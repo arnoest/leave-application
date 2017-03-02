@@ -9,7 +9,7 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-02 13:09:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ffe0dc8d4fd93200931cb3728110c7ad</sys_id>

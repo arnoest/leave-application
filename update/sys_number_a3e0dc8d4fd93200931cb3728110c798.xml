@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-02 13:09:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a3e0dc8d4fd93200931cb3728110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>LEAV</sys_name>

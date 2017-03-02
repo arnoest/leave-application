@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Leave approval Table" max_length="40" name="x_23437_leave_appr_leave_approval_table" type="collection">
+        <element label="Leave End Date" mandatory="true" max_length="40" name="leave_end_date" type="glide_date"/>
+        <element label="Leave Start Date" mandatory="true" max_length="40" name="leave_start_date" type="glide_date"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
